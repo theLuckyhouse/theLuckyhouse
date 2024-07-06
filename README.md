@@ -3,7 +3,7 @@
 
 ![https://github.com/theLuckyhouse](./perfil2.png)
 
-![GitHub Followers](https://img.shields.io/github/followers/theLuckyhouse)
+![GitHub followers](https://img.shields.io/github/followers/theLuckyhouse)
 
 <br>
 <h2>About me 😃</h2>
