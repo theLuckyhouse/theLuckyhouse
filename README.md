@@ -5,6 +5,10 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/theLuckyhouse)
 
+<br>
+<h2>About me 😃</h2>
+<!--Intro start-->
+
 ### I have been a Systems Engineering student since 2023. 
 ### I have started to make modifications to my profile as proof and proof of my upcoming projects. 
 ### I like to learn new things and I want to share everything I learn. 
@@ -12,6 +16,13 @@
 ## Find me at:
 
 [![Instagram](https://img.shields.io/badge/Instagram-@diegocl-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/diego_cl_priv)
+
+<!--Intro end-->
+  </p>
+<br>
+<h2 >Known technologies👨🏻‍💻</h2>
+
+
 
 # Some projects
 
