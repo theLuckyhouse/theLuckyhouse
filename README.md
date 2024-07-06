@@ -37,7 +37,7 @@
 # Soon...
 
 
-<h2>GitHub :octocat:</h2>
+<h2>My GitHub Stats :jack_o_lantern:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -58,3 +58,4 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
