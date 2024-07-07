@@ -34,8 +34,13 @@
 
 # Some projects
 
-# Soon...
+## One Day, One Language: Day 1
 
+<a href="https://github.com/theLuckyhouse/one-day-one-language">
+  <img src="https://raw.githubusercontent.com/theLuckyhouse/one-day-one-language/main/PortadaTitle.png" style="height: 60%; width:60%;" />
+</a>
+
+![GitHub watchers](https://img.shields.io/github/watchers/theLuckyhouse/one-day-one-language)
 
 <h2>My GitHub Stats :jack_o_lantern:</h2>
 <!--- stats & Trophy (start) -->
