@@ -4,8 +4,8 @@
 ![https://github.com/theLuckyhouse](./perfil2.png)
 
 ![GitHub followers](https://img.shields.io/github/followers/theLuckyhouse)
-
 <br>
+
 <h2>About me 😃</h2>
 <!--Intro start-->
 
@@ -41,6 +41,7 @@
 </a>
 
 ![GitHub watchers](https://img.shields.io/github/watchers/theLuckyhouse/one-day-one-language)
+
 
 <h2>My GitHub Stats :jack_o_lantern:</h2>
 <!--- stats & Trophy (start) -->
